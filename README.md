@@ -7,9 +7,9 @@
 Recreate your favorite example of Swiss Design!
 
 
-- [ ] Select an example from [swissted](https://www.swissted.com/) or [search for your own](https://duckduckgo.com/?q=swiss+design+examples&iax=images&ia=images) that speaks to you
 - [ ] Fork this repository and clone it to your `critical-web-design` folder on your machine.
 - [ ] Design
+  - [ ] Select an example from [swissted](https://www.swissted.com/) or [search for your own](https://duckduckgo.com/?q=swiss+design+examples&iax=images&ia=images) that speaks to you
   - [ ] Open `designs/1.psd` in Gimp or Photoshop
   - [ ] Using only the Type and Shape tools, recreate the design you chose
   - [ ] Your layout should fit within the Bootstrap grid layout.

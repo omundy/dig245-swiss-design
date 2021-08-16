@@ -9,22 +9,28 @@ Recreate your favorite example of Swiss Design!
 ## Instructions
 
 - [ ] Fork this repository and clone it to your `critical-web-design` folder on your machine.
-- [ ] Design
-	- [ ] Select an example from [Swissted](https://www.swissted.com/) or [search for one](https://duckduckgo.com/?q=swiss+design+examples&iax=images&ia=images) that speaks to you
-	- [ ] Open `designs/1.psd` in Gimp or Photoshop
-	- [ ] Using **only the Type and Shape tools**, recreate the design you chose
-	- [ ] Your layout should fit within the Bootstrap grid layout.
-	- [ ] Save your document often
-	- [ ] Make new versions as needed, naming them `2.psd`, `3.psd`, etc.
-- [ ] HTML/CSS
-	- [ ] Using only HTML and CSS code your design inside `index.html`
-	- [ ] Do not add image files to the code. Retype the text from the example you chose
-	- [ ] Use the [Bootstrap documentation](https://getbootstrap.com/docs/) as well as custom CSS to create your design
-	- [ ] Use CSS `position`, `border`, and `translate()` properties to create and rotate lines
-	- [ ] Include a link to the image of the original design at the bottom of the page.
-- [ ] Save and test your work, and commit and push changes regularly
-- [ ] Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/). Note: Only *your* CSS files because Bootstrap's built-in support for older browsers [will not validate](https://getbootstrap.com/docs/4.5/getting-started/introduction/))
-- [ ] When finished, [publish and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
+- [ ] Select an example from [Swissted](https://www.swissted.com/) or [search for one](https://duckduckgo.com/?q=swiss+design+examples&iax=images&ia=images) that speaks to you
+
+#### Design
+- [ ] Use **only the Type and Shape tools** in [Figma](https://figma.com) to recreate the design.
+- [ ] Create a [layout grid in Figma](https://help.figma.com/hc/en-us/articles/360040450513-Create-layout-grids-with-grids-columns-and-rows) to begin.
+- [ ] Recreate the design for desktop, tablet, and mobile. Use an apporpriate layout grid for each.
+- [ ] The parts of your layout that require columns should fit within the Bootstrap grid layout.
+- [ ] Refer to the [Web Typography & Swiss Design slides](https://docs.google.com/presentation/d/10cE33DrhL79NI6ypYxT8epK34e5a6ZE5j6Oj2Gk1krQ/edit#slide=id.g4f07d111a9_0_0) as needed.
+
+#### Code
+- [ ] Use HTML, CSS, and JS to code your design inside `index.html`
+- [ ] Do not add image files to the code. Retype the text from the example you chose
+- [ ] Use the [Bootstrap documentation](https://getbootstrap.com/docs/) as well as custom CSS for the columns in your design
+- [ ] Use CSS `position`, `border`, and `translate()` properties to create and rotate lines
+- [ ] Include a link to the image of the original design at the bottom of the page.
+
+#### Publish
+- [ ] [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics-keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
+- [ ] Commit changes regularly.
+- [ ] Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>[(?)](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md#css-validation)</sup>
+- [ ] When finished, [push, publish, and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
+
 
 
 

@@ -47,6 +47,6 @@ Refer to this [rubric](https://docs.google.com/document/d/1daQKCtPQCRhu2RhqHZbqB
 
 ## Resources
 
-- Course [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/html.md) and [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md) references
+- Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/javascript.md)
 - Bootstrap [documentation](https://getbootstrap.com/docs/)
 - W3Schools [CSS 2D Transforms](https://www.w3schools.com/Css/css3_2dtransforms.asp)

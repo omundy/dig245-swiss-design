@@ -48,12 +48,13 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 - [ ] Do not add image files to the code. Retype the text from the example you chose
 - [ ] Use the [Bootstrap documentation](https://getbootstrap.com/docs/) as well as custom CSS for the columns in your design
 - [ ] Use CSS `position`, `border`, and `translate()` properties to create and rotate lines
-- [ ] Include a link to the image of the original design at the bottom of the page.
+- [ ] Include a link to the image of the original design at the bottom of the page
+- [ ] Use JS `console.log()` to show credits: the original author of the design, and yourself  
 
 #### Publish
 - [ ] [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics-keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
 - [ ] Commit changes regularly.
-- [ ] Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>[(?)](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md#css-validation)</sup>
+- [ ] Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>([?](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md#css-validation))</sup>
 - [ ] When finished, [push, publish, and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
 
 

@@ -48,7 +48,7 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 - [ ] Do not add image files to the code. Retype the text from the example you chose
 - [ ] Use the [Bootstrap documentation](https://getbootstrap.com/docs/) as well as custom CSS for the columns in your design
 - [ ] Use CSS `position`, `border`, and `translate()` properties to create and rotate lines
-- [ ] Include a link to the image of the original design at the bottom of the page
+- [ ] Make the band name a link to the image of the original design (but make sure the style still matches the poster)
 - [ ] Use JS `console.log()` to show credits: the original author of the design, and yourself  
 
 #### Publish

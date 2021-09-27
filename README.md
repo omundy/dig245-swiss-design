@@ -37,7 +37,7 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 - [ ] Select an example from [Swissted](https://www.swissted.com/) or [search for one](https://duckduckgo.com/?q=swiss+design+examples&iax=images&ia=images) that speaks to you
 
 #### Design
-- [ ] Use **only the Type and Shape tools** in [Figma](https://figma.com) to recreate the design.
+- [ ] Use type, shape, pen, etc. tools in [Figma](https://figma.com) to recreate the design.
 - [ ] Create a [layout grid in Figma](https://help.figma.com/hc/en-us/articles/360040450513-Create-layout-grids-with-grids-columns-and-rows) to begin.
 - [ ] Recreate the design for desktop, tablet, and mobile. Use an appropriate layout grid for each.
 - [ ] The parts of your layout that require columns should fit within the Bootstrap grid layout.

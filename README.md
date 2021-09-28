@@ -51,6 +51,17 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 - [ ] Make the band name a link to the image of the original design (but make sure the style still matches the poster)
 - [ ] Use JS `console.log()` to show credits: the original author of the design, and yourself  
 
+
+#### Before you submit
+
+Check your project on your phone, as well as the responsive devices inside Chrome DevTools. For each breakpoint:
+
+1. Does the design either exactly match the original, or somehow improve it (alterations to make it work at smaller sizes)
+1. Can you read all the text at all breakpoints?
+1. Are any text or graphic elements overlapping or awkward?
+
+
+
 #### Publish
 - [ ] [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics-keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
 - [ ] Commit changes regularly.

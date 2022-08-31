@@ -6,6 +6,10 @@ Recreate your favorite example of Swiss Design
 ![swissted](assets/img/swissted.png)
 
 
+
+## Instructions
+
+
 <details>
 <summary>Learning Objectives</summary>
 
@@ -36,10 +40,15 @@ https://web.archive.org/web/20151024000243/http://swisscolors.net/ -->
 
 
 
-## Instructions
+## Assigment
 
 
-#### Design
+### Setup
+
+[Fork](https://docs.google.com/presentation/d/1vtK6LoqwF4rQQZZy-ovuEgsYUwwMRXsqDVMOjAPSBt0/edit#slide=id.gad119073e1_0_6) this repository and [clone](https://docs.google.com/presentation/d/1vtK6LoqwF4rQQZZy-ovuEgsYUwwMRXsqDVMOjAPSBt0/edit#slide=id.g9930d559e8_0_0) it to the `critical-web-design` folder on your machine.
+
+
+### Design
 
 1. Select an example of Swiss Design from [Swissted](https://www.swissted.com/) or [search for one](https://duckduckgo.com/?q=swiss+design+examples&iax=images&ia=images) that speaks to you
 1. Recreate the design for desktop, tablet, and mobile.
@@ -48,9 +57,9 @@ https://web.archive.org/web/20151024000243/http://swisscolors.net/ -->
     1. The parts of your layout that use columns should fit within the Bootstrap grid layout.
     1. Refer to the [Web Typography & Swiss Design slides](https://docs.google.com/presentation/d/10cE33DrhL79NI6ypYxT8epK34e5a6ZE5j6Oj2Gk1krQ/edit#slide=id.g4f07d111a9_0_0) as needed.
 
-#### Code
 
-1. Fork this repository and clone it to your `critical-web-design` folder on your machine.
+### Code
+
 1. Use HTML, CSS, [SVG](https://www.youtube.com/watch?v=emFMHH2Bfvo), and JS to code your design inside `index.html`
 1. For the column areas in the design
     1. Retype all text from the example you chose.
@@ -59,10 +68,10 @@ https://web.archive.org/web/20151024000243/http://swisscolors.net/ -->
 1. For the art in the design
     1. You may use SVGs to render the art in the poster but do not add raster image files.
     1. Use CSS `position`, `border`, and `translate()` properties to create and rotate lines
-1. Use JS `console.log()` to show credits: the original author of the design, and yourself  
+1. Use JS `console.log()` to show credits: the original author of the design, and yourself
 
 
-#### Before you submit
+### Before you submit
 
 Check your project on your phone, as well as the responsive devices inside Chrome DevTools. For each breakpoint:
 
@@ -72,11 +81,11 @@ Check your project on your phone, as well as the responsive devices inside Chrom
 
 
 
-#### Publish
+### Publish
 
 1. [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics-keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
 1. Commit changes regularly.
-1. Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>([?](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md#css-validation))</sup>
+1. Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>([?](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md#css-validation))</sup>
 1. When finished, [push, publish, and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a). Make sure to include a link to your Figma designs in the Moodle post.
 
 
@@ -95,6 +104,6 @@ Refer to this [rubric](https://docs.google.com/document/d/1daQKCtPQCRhu2RhqHZbqB
 
 ## Resources
 
-- Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/reference-sheets/javascript.md)
+- Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md)
 - Bootstrap [documentation](https://getbootstrap.com/docs/)
 - W3Schools [CSS 2D Transforms](https://www.w3schools.com/Css/css3_2dtransforms.asp)

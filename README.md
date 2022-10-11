@@ -72,11 +72,15 @@ https://web.archive.org/web/20151024000243/http://swisscolors.net/ -->
 1. For the column areas in the design
     1. Retype all text from the example you chose.
     1. Use the [Bootstrap documentation](https://getbootstrap.com/docs/) as well as custom CSS for the columns in your design
-    1. Make the band name a link to the page of the original design (ensure the style still matches the poster)
 1. For the art in the design
     1. You may use SVGs to render the art in the poster but do not add raster image files.
     1. Use CSS `position`, `border`, and `translate()` properties to create and rotate lines
+1. Add links to your design files
+    1. Make the **band name** a link to the page of the original design
+    1. Make the **show date** a link to your Figma layouts
+	1. Check that the [`:active`](https://developer.mozilla.org/en-US/docs/Web/CSS/:active), [`:hover`](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover), [`:link`](https://developer.mozilla.org/en-US/docs/Web/CSS/:link), and [`:visited`](https://developer.mozilla.org/en-US/docs/Web/CSS/:visited) pseudoclasses match the poster style
 1. Use JS `console.log()` to show credits: the original author of the design, and yourself
+1. Do not add any additional content (like the assignment name) to the page
 
 
 ### Before you submit
@@ -98,7 +102,15 @@ Check your project on your phone, as well as the responsive devices inside Chrom
 
 
 
+<!--
 
+HIGHLIGHTS
+
+2022
+https://drew-beamer.github.io/dig245-swiss-design/
+
+
+-->
 
 
 

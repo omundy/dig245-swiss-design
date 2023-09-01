@@ -1,14 +1,13 @@
 
 # Swiss Design
 
-Recreate your favorite example of Swiss Design
-
 ![swissted](assets/img/swissted.png)
 
 
 
-## Instructions
+## Introduction
 
+Recreate your favorite example of Swiss Design
 
 <details>
 <summary>Learning Objectives</summary>
@@ -35,9 +34,7 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 
 <details>
 <summary>Rubric</summary>
-
 See Moodle.
-
 </details>
 
 
@@ -48,15 +45,13 @@ https://web.archive.org/web/20151024000243/http://swisscolors.net/ -->
 
 
 
-## Assigment
+
+## Setup
+
+[Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
 
 
-### Setup
-
-[Fork](https://docs.google.com/presentation/d/1vtK6LoqwF4rQQZZy-ovuEgsYUwwMRXsqDVMOjAPSBt0/edit#slide=id.gad119073e1_0_6) this repository and [clone](https://docs.google.com/presentation/d/1vtK6LoqwF4rQQZZy-ovuEgsYUwwMRXsqDVMOjAPSBt0/edit#slide=id.g9930d559e8_0_0) it to the `critical-web-design` folder on your machine.
-
-
-### Design
+## Design
 
 1. Select an example of Swiss Design from [Swissted](https://www.swissted.com/) or [search for one](https://duckduckgo.com/?q=swiss+design+examples&iax=images&ia=images) that speaks to you
 1. Recreate the design for desktop, tablet, and mobile.
@@ -66,7 +61,7 @@ https://web.archive.org/web/20151024000243/http://swisscolors.net/ -->
     1. Refer to the [Web Typography & Swiss Design slides](https://docs.google.com/presentation/d/10cE33DrhL79NI6ypYxT8epK34e5a6ZE5j6Oj2Gk1krQ/edit#slide=id.g4f07d111a9_0_0) as needed.
 
 
-### Code
+## Code
 
 1. Use HTML, CSS, [SVG](https://www.youtube.com/watch?v=emFMHH2Bfvo), and JS to code your design inside `index.html`
 1. For the column areas in the design
@@ -83,7 +78,7 @@ https://web.archive.org/web/20151024000243/http://swisscolors.net/ -->
 1. Do not add any additional content (like the assignment name) to the page
 
 
-### Before you submit
+## Before you submit
 
 Check your project on your phone, as well as the responsive devices inside Chrome DevTools. For each breakpoint:
 
@@ -93,12 +88,12 @@ Check your project on your phone, as well as the responsive devices inside Chrom
 
 
 
-### Publish
+## Publish
 
-1. [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics-keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
+1. [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics/keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
 1. Commit changes regularly.
 1. Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>([?](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md#css-validation))</sup>
-1. When finished, [push, publish, and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a). Make sure to include a link to your Figma designs in the Moodle post.
+1. When finished, push, publish, and post all deliverables to Moodle per documentation in the Assignments.
 
 
 
@@ -120,5 +115,6 @@ https://drew-beamer.github.io/dig245-swiss-design/
 ## Resources
 
 - Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md)
+- [Mozilla Developer Guide](https://developer.mozilla.org/en-US/docs/Web/Guide)
 - Bootstrap [documentation](https://getbootstrap.com/docs/)
 - W3Schools [CSS 2D Transforms](https://www.w3schools.com/Css/css3_2dtransforms.asp)

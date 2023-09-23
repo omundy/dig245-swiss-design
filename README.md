@@ -63,7 +63,7 @@ https://web.archive.org/web/20151024000243/http://swisscolors.net/ -->
 
 ## Inspiration
 
-- 📚 Diogo Terror [Lessons From Swiss Style Graphic Design](http://www.smashingmagazine.com/2009/07/17/lessons-from-swiss-style-graphic-design/) (2009) (15min)
+- 📚 Diogo Terror [Lessons From Swiss Style Graphic Design](http://www.smashingmagazine.com/2009/07/17/lessons-from-swiss-style-graphic-design/) (2009) 
 - 📚 Andrew Maher [How You Make A Grid](https://kupdf.net/download/grid-design-for-graphic-designers-by-andrew-maher_58f4a3f0dc0d60a14ada97de_pdf) (2-9)
 - 📚 Frank Chimero [Craft and Beauty](https://shapeofdesignbook.com/chapters/02-craft-and-beauty/) (28-34) in [The Shape of Design](https://shapeofdesignbook.com/)
 - 📚 Thomas Lowry [Everything you need to know about layout grids in Figma](https://www.figma.com/best-practices/everything-you-need-to-know-about-layout-grids/) 

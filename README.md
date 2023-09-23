@@ -58,7 +58,15 @@ https://web.archive.org/web/20151024000243/http://swisscolors.net/ -->
     1. Use type, shape, pen, etc. tools in [Figma](https://figma.com) to recreate art in the design.
     1. Use a [layout grid for each device size](https://help.figma.com/hc/en-us/articles/360040450513-Create-layout-grids-with-grids-columns-and-rows) in Figma.
     1. The parts of your layout that use columns should fit within the Bootstrap grid layout.
-    1. Refer to the [Web Typography & Swiss Design slides](https://docs.google.com/presentation/d/10cE33DrhL79NI6ypYxT8epK34e5a6ZE5j6Oj2Gk1krQ/edit#slide=id.g4f07d111a9_0_0) as needed.
+    1. Refer to course *Web Typography & Swiss Design* slides as needed.
+
+
+## Inspiration
+
+- 📚 Diogo Terror [Lessons From Swiss Style Graphic Design](http://www.smashingmagazine.com/2009/07/17/lessons-from-swiss-style-graphic-design/) (2009) (15min)
+- 📚 Andrew Maher [How You Make A Grid](https://kupdf.net/download/grid-design-for-graphic-designers-by-andrew-maher_58f4a3f0dc0d60a14ada97de_pdf) (2-9)
+- 📚 Frank Chimero [Craft and Beauty](https://shapeofdesignbook.com/chapters/02-craft-and-beauty/) (28-34) in [The Shape of Design](https://shapeofdesignbook.com/)
+- 📚 Thomas Lowry [Everything you need to know about layout grids in Figma](https://www.figma.com/best-practices/everything-you-need-to-know-about-layout-grids/) 
 
 
 ## Code

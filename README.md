@@ -56,9 +56,10 @@ https://web.archive.org/web/20151024000243/http://swisscolors.net/ -->
 1. Select an example of Swiss Design from [Swissted](https://www.swissted.com/) or [search for one](https://duckduckgo.com/?q=swiss+design+examples&iax=images&ia=images) that speaks to you
 1. Recreate the design for desktop, tablet, and mobile.
     1. Use type, shape, pen, etc. tools in [Figma](https://figma.com) to recreate art in the design.
-    1. Use a [layout grid for each device size](https://help.figma.com/hc/en-us/articles/360040450513-Create-layout-grids-with-grids-columns-and-rows) in Figma.
+    1. Use a [layout grid for each device size](https://help.figma.com/hc/en-us/articles/360040450513-Create-layout-grids-with-grids-columns-and-rows) in Figma. See also [Everything you need to know about layout grids in Figma](https://www.figma.com/best-practices/everything-you-need-to-know-about-layout-grids/) by Thomas Lowry
     1. The parts of your layout that use columns should fit within the Bootstrap grid layout.
     1. Refer to course *Web Typography & Swiss Design* slides as needed.
+
 
 
 ## Inspiration
@@ -66,7 +67,7 @@ https://web.archive.org/web/20151024000243/http://swisscolors.net/ -->
 - 📚 Diogo Terror [Lessons From Swiss Style Graphic Design](http://www.smashingmagazine.com/2009/07/17/lessons-from-swiss-style-graphic-design/) (2009) 
 - 📚 Andrew Maher [How You Make A Grid](https://kupdf.net/download/grid-design-for-graphic-designers-by-andrew-maher_58f4a3f0dc0d60a14ada97de_pdf) (2-9) (2011)
 - 📚 Frank Chimero [Craft and Beauty](https://shapeofdesignbook.com/chapters/02-craft-and-beauty/) (28-34) in [The Shape of Design](https://shapeofdesignbook.com/) (2012)
-- 📚 Thomas Lowry [Everything you need to know about layout grids in Figma](https://www.figma.com/best-practices/everything-you-need-to-know-about-layout-grids/) 
+
 
 
 ## Code
@@ -122,7 +123,6 @@ https://drew-beamer.github.io/dig245-swiss-design/
 
 ## Resources
 
-- Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md)
-- [Mozilla Developer Guide](https://developer.mozilla.org/en-US/docs/Web/Guide)
-- Bootstrap [documentation](https://getbootstrap.com/docs/)
+- Course resources [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md), [Figma](https://github.com/omundy/dig245-critical-web-design#figma), [Bootstrap](https://github.com/omundy/dig245-critical-web-design#bootstrap)
+- [Mozilla Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
 - W3Schools [CSS 2D Transforms](https://www.w3schools.com/Css/css3_2dtransforms.asp)
